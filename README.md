@@ -1,2 +1,2 @@
 # componentes-GUI-Swing-Java-
-Construção de cadastro simples usando Swing com Java
+O objetivo principal neste miniprojeto é conhecer o uso de interface gŕafica através de Swing por intermédio da   linguagem Java.
